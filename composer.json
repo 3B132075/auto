@@ -2,7 +2,7 @@
     "name": "tom/auto",
     "autoload": {
         "psr-4": {
-            "Tom\\Auto\\": "src/"
+            "Demo\\": "src/Demo"
         }
     },
     "require": {}
